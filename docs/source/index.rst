@@ -1,10 +1,9 @@
 Adibide dokua!
 ==============
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Adibide** bat *dokumentazioa* idazteko.
+Link honetan eskuragarri  `Errepositorioa <https://github.com/iosugomez/iosu-rtd-tutorial/>`_
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -13,7 +12,7 @@ Lumache has its documentation hosted on Read the Docs.
 
 .. note::
 
-   This project is under active development.
+   Hau ohar bat da
 
 Contents
 --------
