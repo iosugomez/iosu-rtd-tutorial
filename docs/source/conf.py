@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Doku Adibidea'
-copyright = '2023, Iosu Gomez'
+copyright = '2023, Iosu Gomez Iturrioz'
 author = 'Iosu Gomez'
 
 release = '0.1'
