@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Doku Adibidea'
-copyright = '2023, Iosu'
+copyright = '2023, Iosu Gomez'
 author = 'Iosu Gomez'
 
 release = '0.1'
@@ -23,6 +23,7 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
