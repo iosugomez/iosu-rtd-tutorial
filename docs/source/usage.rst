@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    $ pip install lumache
    
-Blablabla.
+Blablablabla.
 
 Creating recipes
 ----------------
