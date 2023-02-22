@@ -1,5 +1,5 @@
 # Configuration file for the Sphinx documentation builder.
-import sphinx_rtd_theme
+
 # -- Project information
 
 project = 'Doku Adibidea'
@@ -17,7 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    "sphinx_rtd_theme",
 ]
 
 intersphinx_mapping = {
@@ -32,7 +31,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ["_static"]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
